@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sudhin 
 - 👀 I’m interested in Robotics and automation
 - 🌱 I’m currently learning computer science and artificial intelligence
+- 📫 reach me at sudi050@gmail.com
 <!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me 
+- 💞️ I’m looking to collaborate on ..
 
 
 sudi050/sudi050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
