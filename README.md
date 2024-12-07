@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudhin 
-- 👀 I’m interested in Robotics and automation
+- 👀 I’m interested in intelligent technologies
 - 🌱 I’m currently learning computer science and artificial intelligence
 - 📫 reach me at sudi050@gmail.com
 <!---
